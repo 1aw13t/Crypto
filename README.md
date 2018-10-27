@@ -1,2 +1,2 @@
 # Crypto
-for crypto tasks and files
+This repo contains stuff i have no idea about
